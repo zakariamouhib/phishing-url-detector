@@ -1,0 +1,8 @@
+https://www.google.com/search?q=python
+https://github.com/zakariamouhib
+http://192.0.2.45/login/verify-account
+https://secure-paypa1-login.example.com/update
+http://account-verify.example.net@198.51.100.9/signin
+https://login.microsoft.com.security-check.example.org/password-reset
+http://bit.ly-update-your-bank.example.com/confirm
+https://www.wikipedia.org
